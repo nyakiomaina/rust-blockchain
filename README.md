@@ -16,6 +16,6 @@ In each client, you can enter the following commands:
 
 Once a block is created by a node, it's broadcasted and the blockchain in all other nodes is updated (if it's a valid block).
 
-On startup, a node asks another node on the network for their blockchain and, if it's valid and longer than the current local blockchain, it updates it's own chain to
+On startup, a node asks another node on the network for their blockchain and, if it's valid and longer than the current local blockchain, it updates it's own chain to the longest one it receives
 
 ### Reference [Tutorial](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
