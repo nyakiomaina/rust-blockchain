@@ -18,4 +18,4 @@ Once a block is created by a node, it's broadcasted and the blockchain in all ot
 
 On startup, a node asks another node on the network for their blockchain and, if it's valid and longer than the current local blockchain, it updates it's own chain to
 
-## Reference [Tutorial](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
+### Reference [Tutorial](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
